@@ -1,13 +1,11 @@
 # printf
-A simple printf function built by Caleb Nyong  and Johnel Okon for Alx software Engineering School.
+A printf function built by Akwubo Onyemowo and Victory Ukpong for Alx software Engineering School.
 
 #Welcome
 
 Rebuild of the standard printf function in C. Our project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
 
 #Format Specifiers
-
-Our team chose to add %x ,%X, %b, %o, %u, %r, %R, and %p formatting. We relied on the library we have been building at Alx as well as new concepts gathered during this project.
 
 #Supported Format Types
 
@@ -61,6 +59,4 @@ write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_s
 
 #Authors
 
-Caleb Nyong
-
-Johnel Okon
+Akwubo Onyemowo and Victory Ukpong
